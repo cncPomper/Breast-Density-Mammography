@@ -8,6 +8,11 @@ version = "0.0.1"
 description = "A short description of the project."
 authors = [
   { name = "Piotr Kitlowski" },
+  { name = "Krzystof Wojnarowicz" },
+]
+maintainers = [
+  {name = "Piotr Kitłowski", email = "piotr.kitlowski@gmail.com"},
+  {name = "Krzystof Wojnarowicz", email = "01187000@pw.edu.pl"}
 ]
 license = { file = "LICENSE" }
 readme = "README.md"
